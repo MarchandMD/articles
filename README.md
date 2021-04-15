@@ -7,4 +7,5 @@ As the articles grow, I'll do my best to update the list below.
 
 Currently:  
 
-* NOTHING LISTED YET (lol)
+* [What is monkey patching?]()
+* [Stubbing a method in RSpec]()
