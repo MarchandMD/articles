@@ -13,3 +13,5 @@ Currently:
 * [Stubbing a method in RSpec](all_articles/stubbing_a_method.md) added 4/15/2021
 * [Multi-dimensional Arrays](all_articles/multidimensional_arrays.md) added 4/17/2021
 * [Setting up RSpec](all_articles/setting_up_rspec.md) added 4/20/2021 (nice)
+* [Using RSpec `before` hook](all_articles/setting_up_rspec.md) added 4/20/2021  
+  
