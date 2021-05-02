@@ -14,4 +14,5 @@ Currently:
 * [Multi-dimensional Arrays](all_articles/multidimensional_arrays.md) added 4/17/2021
 * [Setting up RSpec](all_articles/setting_up_rspec.md) added 4/20/2021 (nice)
 * [Using RSpec `before` hook](all_articles/setting_up_rspec.md) added 4/20/2021  
+* [Testing gets and puts in Ruby](all_articles/testing_gets_and_puts_in_Ruby.md) added 5/2/2021
   
