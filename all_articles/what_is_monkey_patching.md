@@ -93,4 +93,4 @@ As I continue my journey in programming and coding I may learn more about monkey
 
 But for now, if I were to walk away and forget everything I think this article would help me in some small way.  
 
-Thanks future me!
+Thanks past me!
