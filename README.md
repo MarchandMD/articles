@@ -15,4 +15,5 @@ Currently:
 * [Setting up RSpec](all_articles/setting_up_rspec.md) added 4/20/2021 (nice)
 * [Using RSpec `before` hook](all_articles/setting_up_rspec.md) added 4/20/2021  
 * [Testing gets and puts in Ruby](all_articles/testing_gets_and_puts_in_Ruby.md) added 5/2/2021
+* [Recursion ain't that bad](https://gist.github.com/MarchandMD/8848567656dc134d875b55c7c8d084e0) added 7/17/2021
   
